@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{37CC183B-43E8-4B23-B040-E65411E5D1CF}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="wercker.yml">
+    <Files>
+      <File FileName="Program.cs" Line="22" Column="1" />
+      <File FileName="Startup.cs" Line="11" Column="9" />
+      <File FileName="wercker.yml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
