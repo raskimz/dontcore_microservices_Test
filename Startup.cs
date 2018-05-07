@@ -11,7 +11,7 @@ namespace HelloWorld
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
-            app.Run(async (context) => { await context.Response.WriteAsync("Hello, New world!"); });
+            app.Run(async (context) => { await context.Response.WriteAsync("Hello, New world hunny bear!"); });
         }
     }
 }
