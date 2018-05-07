@@ -25,5 +25,5 @@ deploy:
             username: raskimz
             password: Kamau0742!
             repository: raskimz/dotnetcoreservices
-            registry: https://hub.docker.com/r/
+            registry: https://registry-1.docker.io
             entrypoint: "/pipeline/source/app/docker_entrypoint.sh"
