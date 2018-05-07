@@ -24,6 +24,6 @@ deploy:
         - internal/docker-push:
             username: kimkam90@gmail.com
             password: Kamau0742!
-            repository: raskimz/dotnetcoreservices
-            registry: https://hub.docker.com
+            repository: raskimz/dotnetcoreservices/
+            registry: https://hub.docker.com/r/
             entrypoint: "/pipeline/source/app/docker_entrypoint.sh"
